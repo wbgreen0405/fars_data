@@ -1,3 +1,5 @@
+^\.travis\.yml$
+
 # FARS: Accident Data Analysis package
 
 
