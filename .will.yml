@@ -1,0 +1,5 @@
+# R for will
+
+language: R
+sudo: false
+cache: packages
