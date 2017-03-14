@@ -1,6 +1,6 @@
 
 # TRAVIS BADGE
- "[![Build Status](https://travis-ci.org/wbgreen0405/fars_data.svg?branch=master)](https://travis-ci.org/wbgreen0405/fars_data)"
+ [![Build Status](https://travis-ci.org/wbgreen0405/fars_data.svg?branch=master)](https://travis-ci.org/wbgreen0405/fars_data)
 
 # FARS: Accident Data Analysis package
 
